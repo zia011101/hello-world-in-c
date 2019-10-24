@@ -1,2 +1,7 @@
-# hello-world-in-c
-To print hello world in c coding language
+#include <stdio.h>
+int main()
+{
+   // printf() displays the string inside quotation
+   printf("Hello, World!");
+   return 0;
+}
